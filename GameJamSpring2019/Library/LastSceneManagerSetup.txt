@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/GameScene.unity
+- path: Assets/VRTK/Examples/[007 - Interactions] InteractionHelpers.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
